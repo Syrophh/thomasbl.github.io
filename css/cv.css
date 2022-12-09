@@ -37,7 +37,7 @@ body {
     color: rgb(226,0,26);
 }
 #cv-intro::after {
-    background: url('css/images/ligne.png'); /* Dossier "images" est un sous-
+    background: url('../css/images/ligne.png'); /* Dossier "images" est un sous-
      dossier de "css" (à créer) */
     width: 100%;
     height: 3px;
